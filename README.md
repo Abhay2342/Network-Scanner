@@ -10,7 +10,7 @@
 
 This is a simple network scanner used to scan any range of IP Address to get their MAC Address.
 
-The code is written completely in Python (currently, python v3.10).
+The code is written completely in Python (currently, python v3).
 
 This program is supported for Linux, Windows and Mac OS X.
 
