@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+'''This test file have all the explanation of the working of our network scanner'''
+
 import scapy.all as scapy
 import optparse
 
