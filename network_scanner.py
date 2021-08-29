@@ -6,7 +6,7 @@ from termcolor import colored
 
 def get_arguments():
     parser = optparse.OptionParser()
-    parser.add_option("-t", "--target", dest = "ip", help = "Enter IP Address.")
+    parser.add_option("-t", "--target", dest = "ip", help = "Enter A Range Of IP Address Ex > 192.168.29.1/24.")
     options, arguments = parser.parse_args()
 
     if not options.ip:
