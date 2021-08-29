@@ -50,3 +50,4 @@ about()
 options = get_arguments()
 scan_result = scan(options.ip)
 print_result(scan_result)
+
